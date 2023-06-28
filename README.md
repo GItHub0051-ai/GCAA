@@ -25,8 +25,7 @@ Begin training.
 
 #Result & Analysis
 ## Effectiveness of CEM
-![JS_Divergences](/Images/JS_Divergences.jpg)
-
+<img src="/Images/JS_Divergences.jpg" width="500" height="500"/><br/>
 Here we show the JS divergence distribution with and without CEM. As the number of batches increases, the dispersion of JS values using CEM decreases significantly. It shows that CEM can increase the feature correlation between sentences, and further proves that CEM is able to capture the emotional dependence between successive sentences.
 
 ## Comparison with recent stat-of-the-art approaches

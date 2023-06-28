@@ -21,4 +21,8 @@ Begin training.
 * Dataset: get in the *DATA* file.
 * Epoch: 200.
 * Learning rate: 1e-5.
-* dropout : 0.1.
+* Dropout : 0.1.
+
+# Effectiveness of CEM
+![JS_Divergences](/Images/JS_Divergences.png)
+Here we show the JS divergence distribution with and without CEM. As the number of batches increases, the dispersion of JS values using CEM decreases significantly. It shows that CEM can increase the feature correlation between sentences, and further proves that CEM is able to capture the emotional dependence between successive sentences.

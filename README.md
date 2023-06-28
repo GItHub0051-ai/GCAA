@@ -19,3 +19,6 @@ Here is how to run the code.
 ## Train
 Begin training.
 * Dataset: get in the *DATA* file.
+* Epoch: 200.
+* Learning rate: 1e-5.
+* dropout : 0.1.

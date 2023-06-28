@@ -32,5 +32,5 @@ Here we show the JS divergence distribution with and without CEM. As the number 
 | Model | Acc_2 | F1 | MAE | Corr |  
 | MISA | 88.52 | 88.58 | 0.605 | 0.848 |  
 | CENet | 89.48 | 88.45 | 0.597 | 0.861 |  
-| GCAA | 90.70 | 89.68 | 0.595 | 0.863 |
+| GCAA | 90.70 | 89.68 | 0.595 | 0.863 |  
 Compared with the most advanced approaches, the proposed method achieves the best performance on all four indicators.
